@@ -13,3 +13,4 @@ describe('HeroService', () => {
     expect(service).toBeTruthy();
   }));
 });
+} 
